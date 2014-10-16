@@ -307,6 +307,10 @@ set -x
 %clean
 rm -rf $RPM_BUILD_ROOT
 
+%post
+cd /lib
+sed -e "s|\(RTLDLIST=\)\(.*\)|\1\"\2 ${newinterpreter}\"|" -i /usr/bin/ldd
+
 %files -f filestoinclude
 %defattr(-,root,root)
 %if %binaries_to_prepare
