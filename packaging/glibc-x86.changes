@@ -1,0 +1,34 @@
+* Sat Jun 28 2014 UkJung Kim <ujkim@samsung.com> - None 
+- PROJECT: toolchains/eglibc-x86
+- COMMIT_ID: 6c01bdc60c85c37a4351881c05204675dbaaa265
+- BRANCH: master
+- PATCHSET_REVISION: 6c01bdc60c85c37a4351881c05204675dbaaa265
+- CHANGE_OWNER: \"UkJung Kim\" <ujkim@samsung.com>
+- PATCHSET_UPLOADER: \"UkJung Kim\" <ujkim@samsung.com>
+- CHANGE_URL: http://slp-info.sec.samsung.net/gerrit/534395
+- PATCHSET_REVISION: 6c01bdc60c85c37a4351881c05204675dbaaa265
+- TAGGER: UkJung Kim <ujkim@samsung.com>
+- Gerrit patchset approval info:
+- Newton Lee <newton.lee@samsung.com> Code-Review : 2
+- Newton Lee <newton.lee@samsung.com> Verified : 1
+- CHANGE_SUBJECT: Merged x86_64 support to master
+
+- Merged x86_64 support to master
+
+* Wed Jun 28 12:00:00 KST 2014 - UkJung Kim <ujkim@samsung.com> - 1.0
+- Update to support x86_64
+
+* Fri Jul  6 14:30:00 KST 2012 - UkJung Kim <ujkim@samsung.com> - 1.0
+- Added and updated OBS-Accelerator-0.1.tar.bz2
+
+* Sun Apr 24 08:02:35 UTC 2011 - Jan-Simon Möller <jsmoeller@linuxfoundation.org> - 1.0
+- Add baselibs.conf to src.rpm
+
+* Mon Jan  3 21:03:00 UTC 2011 Carsten Munk <carsten@maemo.org> - 1.0
+- Add armv7hl and armv7nhl support, part of fix for BMC#12112
+
+* Mon May  3 22:27:34 UTC 2010 Jan-Simon Möller <jsmoeller@linuxfoundation.org> - 1.0
+- Update to armv7 crossbuild.
+
+* Tue Apr 20 17:03:30 UTC 2010 Jan-Simon Möller <jsmoeller@linuxfoundation.org> - 1.0
+- Initial version on meego.com

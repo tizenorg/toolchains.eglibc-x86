@@ -25,7 +25,7 @@
 # The original package name
 # e.g. qemu
 #
-%define oldname eglibc
+%define oldname glibc
 
 #
 # The architectures this meta package is built on
